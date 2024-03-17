@@ -1,0 +1,5 @@
+__pycache__/*
+*store.json*
+rag-ai/*
+.env
+.DS_Store
